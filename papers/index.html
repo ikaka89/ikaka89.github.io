@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Papers"
-description: "Research papers from the lab"
+description: "Research papers from Akshay"
 group: navigation
 navorder: 3
 ---
@@ -9,27 +9,27 @@ navorder: 3
 <div class="bigspacer"></div> 
 {% for paper in site.categories.papers %}
     {% cycle 'add rows': '<div class="row">', nil, nil %}
-    <div class="col-md-4 paperbox">
+    <div class="col-md-12 paperbox">
       {% if paper.embargo %}
       <div class="media">
-           <img width=100 class="media-object pull-right" src="{{ paper.image }}"/>
+           <img width=150 class="media-object pull-right" src="{{ paper.image }}"/>
           <div class="media-body">
-            <div class="smallhead media-heading">
+            <div class="head media-heading">
             {{ paper.title }}
             </div>
-            <p class="note">{{ paper.shortref }}</p>
+            <p class="note">{{ paper.bigref }}</p>
           </div>
       </div>
       {% else %}
      <div class="media">
           <a class="pull-right" href="{{ paper.url }}">
-            <img width=100 class="media-object" src="{{ paper.image }}">
+            <img width=150 class="media-object" src="{{ paper.image }}">
           </a>
         <div class="media-body">
-            <div class="smallhead media-heading">
+            <div class="head media-heading">
             <a href="{{ paper.url }}" class="off">{{ paper.title }}</a>
             </div>
-            <p class="note">{{ paper.shortref }}</p>
+            <p class="note">{{ paper.bigref }}</p>
         </div>
       </div>
       {% endif %}

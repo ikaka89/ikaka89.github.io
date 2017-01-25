@@ -1,13 +1,13 @@
 ---
 layout: paper
 title: Effects of drought on gene expression in maize reproductive and leaf meristem tissue revealed by RNA-Seq
-image: /images/papers/kakumanu_plantphysiol_2012.png
+image: /assets/images/papers/kakumanu_plantphysiol_2012.png
 authors: <b>Kakumanu A</b>, Ambavaram MMR, Klumas C, Krishnan A, Batlang U, Myers E, Grene R and Pereira A
 year: 2012
 bigref: <b>Kakumanu A</b>, Ambavaram MMR, Klumas C, Krishnan A, Batlang U, Myers E, Grene R and Pereira A. 2012. Plant Physiology.
 ref: <b>Kakumanu</b> et al. 2012. Plant Physiology.
 journal: "Plant Physiol 160(2): 846-867"
-pdf: /pdfs/papers/kakumanu_plantphysiol_2012.pdf
+pdf: /assets/pdfs/kakumanu_plantphysiol_2012.pdf
 doi: 10.1104/pp.112.200444
 ---
 

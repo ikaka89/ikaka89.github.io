@@ -1,13 +1,13 @@
 ---
 layout: paper
 title: An Integrated Model of Multiple-Condition ChIP-Seq Data Reveals Predeterminants of Cdx2 Binding
-image: /images/papers/mahony_ploscompbiol_2014.gif
+image: /assets/images/papers/mahony_ploscompbiol_2014.gif
 authors: Mahony S, Edwards MD, Mazzoni EO, Sherwood RI, <b>Kakumanu A</b>, Morrison CA, Wichterle H and Gifford DK
 year: 2014
 bigref: Mahony S, Edwards MD, Mazzoni EO, Sherwood RI, <b>Kakumanu A</b>, Morrison CA, Wichterle H and Gifford DK. 2014. PLoS Comput Biol.
 ref: Mahony et al. 2014. PLoS Comput Biol.
 journal: "PLoS Comput Biol 10(3): e1003501"
-pdf: /pdfs/papers/mahony_ploscompbiol_2014.pdf
+pdf: /assets/pdfs/mahony_ploscompbiol_2014.pdf
 doi: 10.1371/journal.pcbi.1003501
 ---
 

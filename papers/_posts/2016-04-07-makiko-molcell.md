@@ -1,13 +1,13 @@
 ---
 layout: paper
 title: The Pioneer Transcription Factor FoxA Maintains an Accessible Nucleosome Configuration at Enhancers for Tissue-Specific Gene Activation
-image: /images/papers/makiko_molcell_2016.jpg
+image: /assets/images/papers/makiko_molcell_2016.jpg
 authors: Iwafuchi-Doi M, Donahue G, <b>Kakumanu A</b>, Watts JA, Mahony S, Pugh BF, Lee D, Kaestner KH and Zaret KS
 year: 2016
 bigref: Iwafuchi-Doi M, Donahue G, <b>Kakumanu A</b>, Watts JA, Mahony S, Pugh BF, Lee D, Kaestner KH and Zaret KS. 2016. Molecular Cell.
 ref: Iwafuchi et al. 2016. Molecular Cell.
 journal: "Molecular Cell 62(1): 79-81"
-pdf: /pdfs/papers/iwafuchi_molcell_2016.pdf
+pdf: /assets/pdfs/iwafuchi_molcell_2016.pdf
 doi: 10.1016/j.molcel.2016.03.001
 ---
 

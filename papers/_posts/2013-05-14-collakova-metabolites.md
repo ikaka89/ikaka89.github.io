@@ -1,13 +1,13 @@
 ---
 layout: paper
 title: Metabolic and transcriptional reprogramming in developing soybean (Glycine max) embryos
-image: /images/papers/colllakova_metabolites_2013.png
+image: /assets/images/papers/colllakova_metabolites_2013.png
 authors: Collakova E, Aghamirzale D, Fang Y, Klumas C, Tabataba F, <b>Kakumanu A</b>, Myers E, Heath LS and Grene R
 year: 2013
 bigref: Collakova E, Aghamirzale D, Fang Y, Klumas C, Tabataba F, <b>Kakumanu A</b>, Myers E, Heath LS and Grene R. 2013. Metabolites.
 ref: Collakova et al. 2013. Metabolites.
 journal: "Metabolites 3(2): 347-372"
-pdf: /pdfs/papers/collakova_metabolites_2013.pdf
+pdf: /assets/pdfs/collakova_metabolites_2013.pdf
 doi: 10.3390/metabo3020347
 ---
 

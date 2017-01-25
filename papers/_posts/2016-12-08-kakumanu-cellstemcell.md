@@ -1,13 +1,13 @@
 ---
 layout: paper
 title: A Multi-step Transcriptional and Chromatin State Cascade Underlies Motor Neuron Programming from Embryonic Stem Cells
-image: /images/papers/kakumanu_cellstemcell_2016.jpg
+image: /assets/images/papers/kakumanu_cellstemcell_2016.jpg
 authors: Velasco S<sup>1</sup>, Ibrahim MM<sup>1</sup>, <b>Kakumanu A<sup>1</sup></b>, Garipler G, Aydin B, Al-Sayegh MA, Hirsekorn A, Abdul-Rahman F, Ohler U, Mahony M and Mazzoni E. [<sup>1</sup> Co-first author]
 year: 2016
 bigref: Velasco S<sup>1</sup>, Ibrahim MM<sup>1</sup>, <b>Kakumanu A<sup>1</sup></b>, Garipler G, Aydin B, Al-Sayegh MA, Hirsekorn A, Abdul-Rahman F, Ohler U, Mahony M and Mazzoni E. 2016. Cell Stem Cell. [<sup>1</sup> Co-first author]
 ref: Velasco et al. 2016. Cell Stem Cell.
 journal: "Cell Stem Cell"
-pdf: /pdfs/papers/kakumanu_cellstemcell_2016.pdf
+pdf: /assets/pdfs/kakumanu_cellstemcell_2016.pdf
 doi: 10.1016/j.stem.2016.11.006
 ---
 
