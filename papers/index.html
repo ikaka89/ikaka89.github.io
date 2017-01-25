@@ -12,7 +12,7 @@ navorder: 3
     <div class="col-md-12 paperbox">
       {% if paper.embargo %}
       <div class="media">
-           <img width=300 class="media-object pull-right" src="{{ paper.image }}"/>
+           <img width=150 class="media-object pull-right" src="{{ paper.image }}"/>
           <div class="media-body">
             <div class="smallhead media-heading">
             {{ paper.title }}
@@ -23,7 +23,7 @@ navorder: 3
       {% else %}
      <div class="media">
           <a class="pull-right" href="{{ paper.url }}">
-            <img width=300 class="media-object" src="{{ paper.image }}">
+            <img width=150 class="media-object" src="{{ paper.image }}">
           </a>
         <div class="media-body">
             <div class="smallhead media-heading">
