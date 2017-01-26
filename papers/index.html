@@ -3,13 +3,13 @@ layout: default
 title: "Papers"
 description: "Research papers from Akshay"
 group: navigation
-navorder: 3
+navorder: 2
 ---
 {% include JB/setup %}
-<div class="bigspacer"></div> 
+<div class="giganticspacer"></div> 
 {% for paper in site.categories.papers %}
     {% cycle 'add rows': '<div class="row">', nil, nil %}
-    <div class="col-md-12 paperbox">
+    <div class="col-md-12paperbox">
       {% if paper.embargo %}
       <div class="media">
            <img width=150 class="media-object pull-right" src="{{ paper.image }}"/>

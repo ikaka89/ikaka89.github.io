@@ -17,7 +17,8 @@
     <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet"/>
     <!-- Sticky Footer -->
     <link href="{{ ASSET_PATH }}/bootstrap/css/bs-sticky-footer.css" rel="stylesheet"/>
-    
+    <!-- academicicons -->
+	<link rel="stylesheet" href="{{ ASSET_PATH }}/academicons/css/academicons.css"/>
     <!-- Custom styles -->
     <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all"/>
 
@@ -71,7 +72,7 @@
           <span class="icon-bar"></span>
         </button>
         <a href="/">
-        <img class="pull-left logo" src="{{ ASSET_PATH }}/images/logo/lab-logo.svg" type="image/svg+xml">
+        <img class="pull-left logo" src="{{ ASSET_PATH }}/images/logo/logo.svg" type="image/svg+xml">
         </a>
       </div>
 
@@ -93,6 +94,7 @@
           {% assign pages_list = (site.pages | sort: 'navorder') %}
           {% assign group = 'navigation' %}
           {% include JB/pages_list %}
+		  <!-- when you have more tabs and need to subnavigate
           <li class="dropdown nav navbar-nav">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
               More <span class="caret"></span>
@@ -104,6 +106,7 @@
               {% include JB/pages_list %}
             </ul>
             </li>
+			  -->
         </ul>
       </div><!-- /.navbar-collapse -->
     </nav>
@@ -127,9 +130,33 @@
       </div>
       <!-- Collect the nav links, forms, and other content for toggling -->
       <div class="collapse navbar-collapse" id="jb-bottom-collapse">
-        <ul class="nav navbar-nav navbar-left navbar-small">
-          <li><a href={{ site.department.url }}>{{ site.department.name }}</a></li>
-          <li><a href={{ site.institution.url }}>{{ site.institution.name }}</a></li>
+        
+        <ul class="nav navbar-nav navbar-middle ">
+          <li>
+			  <a href="https://twitter.com/{{ author.twitter }}">
+			  	<i class="fa fa-twitter"></i> 
+			  </a>
+		  </li>
+          <li>
+			  <a href="https://github.com/{{ author.github }}">
+				  <i class="fa fa-github"></i>
+			  </a>
+		  </li>
+          <li>
+			  <a href="https://www.linkedin.com/in/{{ author.linkdein }}">
+				  <i class="fa fa-linkedin"></i>
+			  </a>
+		  </li>
+          <li>
+			  <a href="https://scholar.google.com/citations?user=vDVHPHUAAAAJ&hl=en">
+				  <i class="ai ai-google-scholar"></i>
+			  </a>
+		  </li>
+          <li>
+			  <a href="https://www.researchgate.net/profile/Akshay_Kakumanu">
+				  <i class="ai ai-researchgate"></i>
+			  </a>
+		  </li>
         </ul>
         <ul class="nav navbar-nav navbar-right navbar-small">
           <li><a href='/about.html#purpose'>About</a></li>
