@@ -1,14 +1,14 @@
 ---
 layout: paper
 title: Deconvolving sequence features that discriminate between overlapping regulatory annotations.
-image: /assets/images/papers/journal.pcbi.1005795.g001.PNG
+image: /assets/images/papers/kakumanu_ploscompbiol_2017.png
 authors: <b>Kakumanu A</b>, Velasco S, Mazzoni EO and Mahony S
 year: 2017
 bigref: <b>Kakumanu A</b>, Velasco S, Mazzoni EO and Mahony S. 2017. PLoS Comput Biol.
 ref: Kakumanu et al. 2017. PLoS Comput Biol.
 journal: "PLoS Comput Biol"
 pdf: /assets/pdfs/kakumanu_ploscompbiol_2017.pdf
-doi: https://doi.org/10.1371/journal.pcbi.1005795
+doi: 10.1371/journal.pcbi.1005795
 github : https://github.com/seqcode/sequnwinder
 ---
 
