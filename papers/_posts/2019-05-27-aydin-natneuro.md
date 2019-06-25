@@ -2,9 +2,9 @@
 layout: paper
 title: Proneural factors Ascl1 and Neurog2 contribute to neuronal subtype identities by establishing distinct chromatin landscapes.
 image: /assets/images/papers/kakumanu_natneuro_2019.png
-authors: Aydin B, <b>Kakumanu A<b>, Rossillo M, Moreno-Estellés M, Garipler G, Ringstad N, Flames N, Mahony S, Mazzoni EO
+authors: Aydin B, <b>Kakumanu A</b>, Rossillo M, Moreno-Estellés M, Garipler G, Ringstad N, Flames N, Mahony S, Mazzoni EO
 year: 2019
-bigref: Aydin B, <b>Kakumanu A<b>, Rossillo M, Moreno-Estellés M, Garipler G, Ringstad N, Flames N, Mahony S, Mazzoni EO. 2019. Nature Neuroscience.
+bigref: Aydin B, <b>Kakumanu A</b>, Rossillo M, Moreno-Estellés M, Garipler G, Ringstad N, Flames N, Mahony S, Mazzoni EO. 2019. Nature Neuroscience.
 ref: Aydin et al. 2019. Nature Neuroscience.
 journal: "Nature Neuroscience"
 pdf: /assets/pdfs/kakumanu_natneuro_2019.pdf
